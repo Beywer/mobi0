@@ -1,5 +1,5 @@
 #Mobi0
 
-Init commit 1
+Это будте новый мастер
 
 Init commit 2
