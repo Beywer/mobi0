@@ -2,4 +2,4 @@
 
 Init commit 1
 
-Init commit 2
+Это будет бранч0
